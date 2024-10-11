@@ -12,9 +12,8 @@ O qual me capacitou a criar páginas com demarcações específicas, configuraç
 <strong>Desktop</strong>
 <br>
 <br>
-<img src="" />
-<br>
+<img src="https://github.com/Kauafrancca/Wide-Coverage-Location/blob/main/assets/Desktop.png?raw=true" />
 <strong>Smartphone</strong>
 <br>
 <br>
-<img src="" />
+<img src="https://github.com/Kauafrancca/Wide-Coverage-Location/blob/main/assets/Smartphone.png?raw=true" />
